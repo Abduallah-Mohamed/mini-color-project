@@ -32,7 +32,6 @@ export default class Box extends Component {
                 className="Box"
                 style={{ backgroundColor: this.state.color }}
                 onClick={this.handleClick}
-                name="Pick New Color"
             ></div>
         );
     }

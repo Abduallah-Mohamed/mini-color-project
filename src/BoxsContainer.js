@@ -4,7 +4,7 @@ import "./BoxsContainer.css";
 
 export default class BoxsContainer extends Component {
     static defaultProps = {
-        numOfBoxes: 17,
+        numOfBoxes: 18,
         colors: [
             "black",
             "PeachPuff",
